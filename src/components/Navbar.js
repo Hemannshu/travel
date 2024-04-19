@@ -37,10 +37,10 @@ const Navbar = () => {
                     <button>Account</button>
                 </div>
                 <div className=''>
-                    <FaFacebook className='icons' />
-                    <FaTwitter  className='icons' />
-                    <FaInstagram className='icons' />
-                    <FaYoutube className='icons' />
+                    <FaFacebook className='icon' />
+                    <FaTwitter  className='icon' />
+                    <FaInstagram className='icon' />
+                    <FaYoutube className='icon' />
                 </div>
                 </ul>
             </div>
