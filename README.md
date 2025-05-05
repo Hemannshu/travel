@@ -1,8 +1,6 @@
-!(https://github.com/Hemannshu/travel/src\assets\Screenshot2024-04-20151645.png)
-
 **Travlease**
 
-Welcome to the Travlease repository on GitHub! Travlease is a travel website built using React and Tailwind CSS, designed to simplify the process of planning and booking travel itineraries. Whether you're a developer looking to contribute or a traveler eager to explore new destinations, we're thrilled to have you here!
+Travlease is a travel website built using React and Tailwind CSS, designed to simplify the process of planning and booking travel itineraries. Whether you're a developer looking to contribute or a traveler eager to explore new destinations, we're thrilled to have you here!
 
 **Features**
 
@@ -51,11 +49,3 @@ To get started with contributing to Travlease, follow these steps:
    ```
 
 8. **Create a Pull Request**: Finally, navigate to your forked repository on GitHub and create a pull request. Describe your changes and submit the pull request for review.
-
-**Contributing Guidelines**
-
-Before contributing to Travlease, please review our contributing guidelines [here](link-to-contributing-guidelines). We appreciate your adherence to these guidelines to ensure a smooth and collaborative development process.
-
-**Issues and Feedback**
-
-If you encounter any issues while using Travlease or have any feedback to share, please don't hesitate to open an issue on GitHub. We welcome your input and strive to continuously improve the platform.
